@@ -1,0 +1,11 @@
+{
+    "name": "Arunabh Das Labs Extension",
+    "version": "1.2.0",
+    "description": "Utility tool for Jira",
+    "manifest_version": 3,
+    "author": "Arunabh Das",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Arunabh Das Labs Extension"
+    }
+}
